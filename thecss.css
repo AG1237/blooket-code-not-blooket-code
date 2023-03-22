@@ -9,6 +9,6 @@
   border-radius: 8px; /* add a border-radius to make the button rounded */
 }
 
-.grow-button:hover {
+.option-button:hover {
   transform: scale(1.1);
 }
